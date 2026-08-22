@@ -38,12 +38,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linlijian&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linlijian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Code.exe+is+running...+;Automate+the+boring+stuff!;Keep+learning,+keep+building." alt="Typing SVG" />
